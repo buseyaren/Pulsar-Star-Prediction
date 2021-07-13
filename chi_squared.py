@@ -2,7 +2,7 @@
 """
 Created on Mon Apr  1 13:32:49 2019
 
-@author: Win7
+@author: Buse
 """
 import pandas as pd
 import numpy as np
